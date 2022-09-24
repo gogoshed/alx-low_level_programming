@@ -1,4 +1,4 @@
-#include <sdio.h>
+#include <stdio.h>
 /**
  * Description: main - Prins out a string to stdout.
  * Return: 0 if success.
